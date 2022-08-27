@@ -26,7 +26,7 @@
 <a href="https://dev.to/rahxuls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rahxuls" height="30" width="40" /></a>
 <a href="https://twitter.com/rahuldotbiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahuldotbiz" height="30" width="40" /></a>
 <a href="https://hashnode.com/@rahulism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rahulism" height="30" width="40" /></a>
-<a href="https://medium.com/@rahooool" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rahooool" height="30" width="40" /></a>
+<a href="https://medium.com/@rahuldotbiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rahooool" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
