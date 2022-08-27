@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gamerrahul1122@gmail.com**
 
-- ⚡ Fun fact **NOTHING**
+- ⚡ Fun fact **NOTHING 😉**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
