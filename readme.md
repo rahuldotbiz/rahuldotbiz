@@ -95,11 +95,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rahuldotbiz)](https://git.io/streak-stats)
 <br/>  
 
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+[![@hustler's Holopin board](https://holopin.me/hustler)](https://holopin.io/@hustler)
 
 <br/>  
 
