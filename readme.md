@@ -87,6 +87,10 @@
 
 <br/>  
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rahuldotbiz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
