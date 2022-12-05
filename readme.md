@@ -103,10 +103,6 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31oomwdekb7ntvikrkegz4oymcq4&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rahuldotbiz&&style=flat-square" align="center" />
 </div>  
