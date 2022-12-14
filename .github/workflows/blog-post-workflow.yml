@@ -14,5 +14,5 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          readme_path: "README.MD"
+          readme_path: "./README.MD"
           feed_list: "https://rahulbiz.vercel.app/feed.xml"
