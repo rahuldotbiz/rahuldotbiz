@@ -96,6 +96,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [2023](https://rahul.biz/blog/2023)
 - [HTML Unleashed - Learn HTML in 2023](https://rahul.biz/blog/html-unleashed)
 - [VS Code Extensions to increase productivity and time-saver hacks for developers](https://rahul.biz/blog/must-have-vs-code-extensions)
 - [Guide: How to become front end developer in 2023](https://rahul.biz/blog/guide-to-become-front-end-developer-2023)
