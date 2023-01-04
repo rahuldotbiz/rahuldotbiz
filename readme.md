@@ -96,11 +96,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Building Clock through HTML, CSS and JS | Build&amp;Learn](https://rahul.biz/blog/build-a-clock-html-css-js-build-and-learn)
 - [32 best JavaScript snippets &lpar;one-liners&rpar; in 2023](https://rahul.biz/blog/32-javascript-snippets)
 - [Learn react in 2023 &lpar;what is create-react-app&rpar; | React Recipes](https://rahul.biz/blog/learn-react-first-react-app)
 - [2023](https://rahul.biz/blog/2023)
 - [HTML Unleashed - Learn HTML in 2023](https://rahul.biz/blog/html-unleashed)
-- [VS Code Extensions to increase productivity and time-saver hacks for developers](https://rahul.biz/blog/must-have-vs-code-extensions)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
