@@ -96,11 +96,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [How to create components in React &lpar;create custom components&rpar; | React Recipes](https://rahul.biz/blog/create-components-in-react-2023)
 - [CSS Margin vs Padding: All Differences Explained! &lpar;2023&rpar;](https://rahul.biz/blog/margin-vs-padding-css-2023)
 - [How to create react elements with JSX | React Recipes](https://rahul.biz/blog/create-react-elements-with-jsx)
 - [Building Clock through HTML, CSS and JS | Build&amp;Learn](https://rahul.biz/blog/build-a-clock-html-css-js-build-and-learn)
 - [32 best JavaScript snippets &lpar;one-liners&rpar; in 2023](https://rahul.biz/blog/32-javascript-snippets)
-- [Learn react in 2023 &lpar;what is create-react-app&rpar; | React Recipes](https://rahul.biz/blog/learn-react-first-react-app)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
