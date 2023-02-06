@@ -96,11 +96,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [A guide to CSS Color functions &lpar;rgb&lpar;&rpar;, hsl&lpar;&rpar;, rgba&lpar;&rpar;, hsla&lpar;&rpar;&rpar; in 2023](https://rahul.biz/blog/a-guide-to-css-color-functions-rgb-hsl-rgba-hsla-in-2023)
 - [Data binding in React the easy way in 2023](https://rahul.biz/blog/data-binding-in-react-the-easy-way)
 - [Top 21 Chrome Extensions for Designers and Developers in 2023](https://rahul.biz/blog/top-21-chrome-extensions-for-designers-and-developers-in-2023)
 - [The Comprehensive Guide to Accessibility in Web Development](https://rahul.biz/blog/the-comprehensive-guide-to-accessibility-in-web-development)
 - [Unleashing the Power of JavaScript Modules: A Beginner&#39;s Guide to Organizing and Optimizing Your Code](https://rahul.biz/blog/unleashing-the-power-of-javascript-modules-a-beginner-s-guide-to-organizing-and-optimizing-your-code)
-- [Unlocking the Power of Polymorphism in JavaScript: A Deep Dive](https://rahul.biz/blog/polymorphism-in-javascript-a-deep-dive)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
