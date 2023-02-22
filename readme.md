@@ -96,11 +96,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [13 must visit websites to learn and master CSS in 2023](https://rahul.biz/blog/13-must-visit-websites-to-learn-and-master-css-in-2023)
 - [5 Simple ways to replace all string occurrences in JavaScript](https://rahul.biz/blog/5-simple-ways-to-replace-all-string-occurrences-in-javascript)
 - [5 ways to merge arrays in JavaScript &lpar;easy&rpar;](https://rahul.biz/blog/5-ways-to-merge-arrays-in-js)
 - [Learn how to parse URLs in JavaScript in 2023](https://rahul.biz/blog/learn-how-to-parse-urls-in-javascript-in-2023)
 - [21+ Best YouTube channels for Designers in 2023](https://rahul.biz/blog/21-best-youtube-channels-for-designers-in-2023)
-- [A guide to CSS Color functions &lpar;rgb&lpar;&rpar;, hsl&lpar;&rpar;, rgba&lpar;&rpar;, hsla&lpar;&rpar;&rpar; in 2023](https://rahul.biz/blog/a-guide-to-css-color-functions-rgb-hsl-rgba-hsla-in-2023)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
