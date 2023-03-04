@@ -99,7 +99,7 @@
 - [Advanced JavaScript Technique: Reloading a Page with Location.Reload&lpar;true&rpar;](https://rahul.biz/blog/javascript-reloading-a-page-with-location-reload-true-guide)
 - [Styling Horizontal Rules in CSS: Style hr tag in 2023](https://rahul.biz/blog/styling-horizontal-rules-in-css-style-hr-tag-in-2023)
 - [13 must visit websites to learn and master CSS in 2023](https://rahul.biz/blog/13-must-visit-websites-to-learn-and-master-css-in-2023)
-- [5 Simple ways to replace all string occurrences in JavaScript](https://rahul.biz/blog/5-simple-ways-to-replace-all-string-occurrences-in-javascript)
+- [How to Use JavaScript Replace All Method for String Replacement](https://rahul.biz/blog/how-to-use-javascript-replace-all-method-for-string-replacement)
 - [5 ways to merge arrays in JavaScript &lpar;easy&rpar;](https://rahul.biz/blog/5-ways-to-merge-arrays-in-js)
 <!-- BLOG-POST-LIST:END -->  
 
