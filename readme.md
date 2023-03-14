@@ -96,11 +96,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [What is Javascript Slice? Practical examples and guide](https://rahul.biz/blog/what-is-javascript-slice-practical-examples-and-guide)
 - [Using foreach&lpar;&rpar; To Iterate Through an Array in JavaScript](https://rahul.biz/blog/foreach-in-js-guide)
 - [23+ Amazing CSS Tools in 2023](https://rahul.biz/blog/23-amazing-css-tools-in-2023)
 - [Getting Started with JavaScript Optional Chaining](https://rahul.biz/blog/javascript-optional-chaining-guide)
 - [Understanding the Parent CSS Selector :has&lpar;&rpar;: A Comprehensive Guide for Beginners](https://rahul.biz/blog/css-parent-selector-has)
-- [Don&#39;t Miss Out: 10 Essential Apps&lpar;and websites&rpar; for Keeping Up With Dev News](https://rahul.biz/blog/don-t-miss-out-10-essential-apps-and-websites-for-keeping-up-with-dev-news)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
