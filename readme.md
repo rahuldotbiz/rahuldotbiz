@@ -96,7 +96,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [70+ Unique ChatGPT Prompts for Developers, Designers and Students](https://rahul.biz/blog/70-chatgpt-prompts-for-students-developers-designers)
+- [70+ Unique ChatGPT Prompts for Developers, Designers, and Content Creators](https://rahul.biz/blog/70-chatgpt-prompts-for-content-creators-developers-designers)
 - [What is Javascript Slice? Practical examples and guide](https://rahul.biz/blog/what-is-javascript-slice-practical-examples-and-guide)
 - [Using foreach&lpar;&rpar; To Iterate Through an Array in JavaScript](https://rahul.biz/blog/foreach-in-js-guide)
 - [23+ Amazing CSS Tools in 2023](https://rahul.biz/blog/23-amazing-css-tools-in-2023)
