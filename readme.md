@@ -96,11 +96,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner&#39;s Guide to Using the Filestack API](https://rahul.biz/blog/a-beginner-s-guide-to-using-the-filestack-api)
 - [MedusaJS or WooCommerce: Finding the Right E-Commerce Platform](https://rahul.biz/blog/medusajs-or-woocommerce-finding-the-right-e-commerce-platform)
 - [70+ Unique ChatGPT Prompts for Developers, Designers, and Content Creators](https://rahul.biz/blog/70-chatgpt-prompts-for-content-creators-developers-designers)
 - [What is Javascript Slice? Practical examples and guide](https://rahul.biz/blog/what-is-javascript-slice-practical-examples-and-guide)
 - [Using foreach&lpar;&rpar; To Iterate Through an Array in JavaScript](https://rahul.biz/blog/foreach-in-js-guide)
-- [23+ Amazing CSS Tools in 2023](https://rahul.biz/blog/23-amazing-css-tools-in-2023)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
