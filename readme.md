@@ -96,11 +96,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Printing With Style: Using CSS for Printer Optimization](https://rahul.biz/blog/printing-with-style-using-css-for-printer-optimization)
 - [An Ode to innerHTML: A Love Story](https://rahul.biz/blog/an-ode-to-innerhtml-a-love-story)
 - [Nullish Coalescing &lpar;in JS&rpar; for Normal People](https://rahul.biz/blog/nullish-coalescing-for-normal-people)
 - [My Love Affair With Linux: 13 Things I Adore](https://rahul.biz/blog/my-love-affair-with-linux-13-things-i-adore)
 - [A Beginner&#39;s Guide to Using the Filestack API](https://rahul.biz/blog/a-beginner-s-guide-to-using-the-filestack-api)
-- [MedusaJS or WooCommerce: Finding the Right E-Commerce Platform](https://rahul.biz/blog/medusajs-or-woocommerce-finding-the-right-e-commerce-platform)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
