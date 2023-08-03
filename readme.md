@@ -96,11 +96,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [PaaS in Plain English: An Easy Explanation Even Your Parents Will Understand](https://rahul.biz/blog/paas-in-plain-english)
 - [A Way Out Inspired Me, So I Found 5 Other Co-Op Gaming Gems to Share](https://rahul.biz/blog/a-way-out-inspired-me-so-i-found-5-other-co-op-gaming-gems-to-share)
 - [Need for Speed: 21+ Ways to Optimize Performance](https://rahul.biz/blog/need-for-speed-21-ways-to-optimize-performance)
 - [Printing With Style: Using CSS for Printer Optimization](https://rahul.biz/blog/printing-with-style-using-css-for-printer-optimization)
 - [An Ode to innerHTML: A Love Story](https://rahul.biz/blog/an-ode-to-innerhtml-a-love-story)
-- [Nullish Coalescing &lpar;in JS&rpar; for Normal People](https://rahul.biz/blog/nullish-coalescing-for-normal-people)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
