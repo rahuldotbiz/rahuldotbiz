@@ -96,11 +96,11 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [How to build an E2E digital products store using Medusa and Next.js](https://rahul.biz/blog/how-to-build-an-e2e-digital-products-store-using-medusa-and-next-js)
 - [Shift Left Testing for Humans: A Practical Guide](https://rahul.biz/blog/shift-left-testing-for-humans-a-practical-guide)
 - [PaaS in Plain English: An Easy Explanation for Anyone Confused](https://rahul.biz/blog/paas-in-plain-english)
 - [A Way Out Inspired Me, So I Found 5 Other Co-Op Gaming Gems to Share](https://rahul.biz/blog/a-way-out-inspired-me-so-i-found-5-other-co-op-gaming-gems-to-share)
 - [Need for Speed: 21+ Ways to Optimize Performance](https://rahul.biz/blog/need-for-speed-21-ways-to-optimize-performance)
-- [Printing With Style: Using CSS for Printer Optimization](https://rahul.biz/blog/printing-with-style-using-css-for-printer-optimization)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
