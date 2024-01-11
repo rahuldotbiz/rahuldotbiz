@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [rahul.biz](rahul.biz)
 
-- 📝 I regularly write articles on [rahul.biz](rahul.biz)
+- 📝 I regularly write articles on [https://rahul.biz](rahul.biz)
 
 - 💬 Ask me about **Technical Writing, SEO, Development.**
 
