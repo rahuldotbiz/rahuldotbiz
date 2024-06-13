@@ -28,7 +28,7 @@
 
 ---
 
-<figure><embed src="https://wakatime.com/share/@b0b21fc7-59a7-42f7-ba0a-d33eef661f12/0ce63d66-f314-4de9-becc-d274ba44a9f0.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@b0b21fc7-59a7-42f7-ba0a-d33eef661f12/385fddb0-d5cf-4196-8301-f675ac1c07bf.svg"></embed></figure>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rahuldotbiz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rahuldotbiz" /></a></p><br><br>
